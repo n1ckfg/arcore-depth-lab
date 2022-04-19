@@ -1,0 +1,3 @@
+[submodule "Assets/arcore-unity-extensions"]
+	path = Assets/arcore-unity-extensions
+	url = https://github.com/n1ckfg/arcore-unity-extensions
